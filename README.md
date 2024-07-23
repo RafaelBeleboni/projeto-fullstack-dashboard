@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # projeto-fullstack-dashboard
 
 instalador de pacote pnpm
@@ -8,3 +9,4 @@ pnpm run dev
 next.js
 tailwind
 postgrees-vercel
+
